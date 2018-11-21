@@ -1,6 +1,6 @@
 # dcTMD 
 
-Python scripts used for dissipation corrected targeted molecular dynamics analysis. If you use them, please cite:
+Python scripts used for dissipation corrected targeted molecular dynamics analysis for usage with "\*pullf.xvg" files from Gromacs v2016 or higher (Application of usage with Gromacs v5.X and lower only needs adjustment in the "skiprows" argument in the data read in step). If you use them, please cite:
 Wolf, S., Stock, G. Targeted Molecular Dynamics Calculations of Free Energy Profiles Using a Nonequilibrium Friction Correction. J. Chem. Theory Comput. 2018, DOI: 10.1021/acs.jctc.8b00835.
 
 * NEQGamma.py: 
